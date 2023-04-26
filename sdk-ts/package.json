@@ -35,7 +35,7 @@
     "@project-serum/borsh": "^0.2.3",
     "@project-serum/serum": "^0.13.60",
     "@pythnetwork/client": "^2.5.1",
-    "@solana/spl-token": "^0.1.8",
+    "@solana/spl-token": "^0.3.7",
     "@solana/web3.js": "^1.37.0",
     "@switchboard-xyz/sbv2-lite": "^0.1.6",
     "@types/coingecko-api": "^1.0.10",
