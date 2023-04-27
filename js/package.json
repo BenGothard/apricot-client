@@ -23,7 +23,7 @@
   "dependencies": {
     "@solana/spl-token": "^0.1.4",
     "@solana/web3.js": "^1.14.0",
-    "big-integer": "1.6.48"
+    "big-integer": "1.6.51"
   },
   "main": "lib/apricot.js",
   "module": "src/apricot.js",
